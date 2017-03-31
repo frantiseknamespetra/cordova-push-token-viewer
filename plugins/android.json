@@ -9,6 +9,16 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "85075801930",
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.fna.cordova.push"
+        },
+        "cordova-plugin-websql": {
+            "PACKAGE_NAME": "com.fna.cordova.push"
         }
     },
     "dependent_plugins": {}
